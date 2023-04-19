@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import fresh from "../assets/pict.png";
-import prod from "../assets/rose.JPG";
+import prod from "../assets/rose.jpg";
 
 const Home = () => {
   return (
@@ -59,7 +59,7 @@ const Home = () => {
         <img
           src={prod}
           alt="product"
-          className=" rounded-full mx-auto  mt-10 mb-10 drop-shadow-md shadow-gray-700 z-10 w-[500px]"
+          className=" rounded-xl mx-auto  mt-10 mb-10 drop-shadow-md shadow-gray-700 z-10 w-[500px]"
         />
 
         <p>
