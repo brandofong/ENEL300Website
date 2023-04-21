@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ENEL300Website/static/css/main.2fbe2e2d.css",
-    "main.js": "/ENEL300Website/static/js/main.ae74a546.js",
+    "main.js": "/ENEL300Website/static/js/main.80a5abab.js",
     "static/media/pict.png": "/ENEL300Website/static/media/pict.029d152894851dca2d0d.png",
     "static/media/rose.jpg": "/ENEL300Website/static/media/rose.2c04978be38a57a4ab74.jpg",
     "index.html": "/ENEL300Website/index.html",
     "main.2fbe2e2d.css.map": "/ENEL300Website/static/css/main.2fbe2e2d.css.map",
-    "main.ae74a546.js.map": "/ENEL300Website/static/js/main.ae74a546.js.map"
+    "main.80a5abab.js.map": "/ENEL300Website/static/js/main.80a5abab.js.map"
   },
   "entrypoints": [
     "static/css/main.2fbe2e2d.css",
-    "static/js/main.ae74a546.js"
+    "static/js/main.80a5abab.js"
   ]
 }
