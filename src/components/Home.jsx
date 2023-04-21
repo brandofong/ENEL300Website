@@ -75,7 +75,6 @@ const Home = () => {
 
         <h2 className="text-2xl font-bold mb-4 pt-8">How It Works</h2>
         <p>
-          {" "}
           Our product is a small device that can help make sure that the water
           you drink is safe. It has a power source that you can turn on and off
           to test a sample of water. The device has LED lights that will turn on
